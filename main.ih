@@ -3,12 +3,12 @@
 
   #include <iostream>
 
-  #include "ReturnValues.h"
-  #include "getStruct.h"
-  #include "getArgument.h"
-  #include "displayArgumentNumberAndArgument.h"
-  #include "structCall.h"
-  #include "combine.h"
-  #include "boundCall.h"
+  #include "ReturnValues.cc"
+  #include "getStruct.cc"
+  #include "getArgument.cc"
+  #include "displayArgumentNumberAndArgument.cc"
+  #include "structCall.cc"
+  #include "combine.cc"
+  #include "boundCall.cc"
 
 #endif
