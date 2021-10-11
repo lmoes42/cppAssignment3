@@ -1,0 +1,14 @@
+#ifndef _INCLUDED_NAME_H_
+#define _INCLUDED_NAME_H_
+
+  #include <iostream>
+
+  #include "ReturnValues.h"
+  #include "getStruct.h"
+  #include "getArgument.h"
+  #include "displayArgumentNumberAndArgument.h"
+  #include "structCall.h"
+  #include "combine.h"
+  #include "boundCall.h"
+
+#endif
